@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+/* common.css no longer defines root variables; global.css provides them. */
+/* common.css will use variables from global.css for typography. */
+html { font-family: inherit; }
+
 button {
     border: none;
     cursor: pointer;
@@ -35,11 +39,11 @@ button {
     left: 252px;
     top: 50px;
 
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: var(--base-font-family);
     font-style: normal;
     font-weight: bold;
-    font-size: 69px;
-    line-height: 81px;
+    font-size: 2.15625rem; /* 69px */
+    line-height: 2.53125rem; /* 81px */
     align-items: center;
     text-align: center;
 

@@ -22,11 +22,11 @@
     top: 961px;
 
     /* P */
-    font-family: 'Arial';
+    font-family: var(--base-font-family);
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 39px;
+    font-size: 1rem; /* follows global base font-size */
+    line-height: 1.21875rem; /* 39px */
 
     /* or 195% */
     display: flex;
@@ -44,11 +44,11 @@
     top: 1041px;
 
     /* P */
-    font-family: 'Arial';
+    font-family: var(--base-font-family);
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 39px;
+    font-size: 1rem; /* follows global base font-size */
+    line-height: 1.21875rem; /* 39px */
 
     /* or 195% */
     display: flex;
@@ -66,11 +66,11 @@
     top: 962px;
 
     /* P */
-    font-family: 'Arial';
+    font-family: var(--base-font-family);
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 39px;
+    font-size: 1rem; /* follows global base font-size */
+    line-height: 1.21875rem; /* 39px */
 
     /* or 195% */
     display: flex;
@@ -88,11 +88,11 @@
     top: 1041px;
 
     /* P */
-    font-family: 'Arial';
+    font-family: var(--base-font-family);
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 39px;
+    font-size: 1rem; /* follows global base font-size */
+    line-height: 1.21875rem; /* 39px */
 
     /* or 195% */
     display: flex;
