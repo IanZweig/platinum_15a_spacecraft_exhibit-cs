@@ -7,7 +7,7 @@
     position: absolute;
     width: 1427px;
     height: auto;
-    left: 162px; /* felt that the image and text was way too right, made it so both are over the buttons*/
+    left: 462px; 
     top: 279px;
 }
 
@@ -17,7 +17,7 @@
     width: 380px;
     height: 882px;
     /*left: 1930px;*/
-    left: 1680px;
+    left: 1930px;
     top: 279px;
 
     /* P */
