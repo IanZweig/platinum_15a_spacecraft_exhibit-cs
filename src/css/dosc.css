@@ -24,12 +24,12 @@
 
 .text1 {
     position: absolute;
-    width: 700px;
+    width: 588px;
     padding-right: 5%;
     box-sizing: border-box;
-    height: 450px;          /* extended from 292px — bottom at 1205px, 65px before buttons at 1270 */
+    height: 550px;          /* extended from 292px — bottom at 1205px, 65px before buttons at 1270 */
     left: 1933px;
-    top: 805px;
+    top: 775px;
 
     font-family: 'Arial';
     font-style: normal;

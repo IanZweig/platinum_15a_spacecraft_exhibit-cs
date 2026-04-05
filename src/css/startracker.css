@@ -3,8 +3,8 @@
     position: absolute;
     max-width: 1100px;
     height: auto;
-    left: 684px;
-    top: 257px; /* for some reason the width/height isnt changing the image?? go back to this */
+    left: 30px;
+    top: 207px; /* for some reason the width/height isnt changing the image?? go back to this */
 }
 .img2 {
     position: absolute;

@@ -79,7 +79,7 @@
 
 .text4 {
     position: absolute;
-    width: 380px;
+    width: 400px;
     height: 243px;
     left: 1716px;
     top: 961px;
@@ -140,7 +140,7 @@ body.a11y-scaled .text3 {
 /* Text 4 — right of right image, 5% (~96px) gap from image and right border */
 body.a11y-scaled .text4 {
     left: 2196px;
-    width: 330px;
+    width: 370px;
     top: 289px;
     height: 960px;
     align-items: flex-start;

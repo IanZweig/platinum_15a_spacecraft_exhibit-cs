@@ -3,17 +3,17 @@ img {
     position: absolute;
     width: 1257px;
     height: 843px;
-    left: 161px;
+    left: 121px;
     top: 299px;
 }
 
 .text1 {
     position: absolute;
-    width: 1175px;           /* extended from 441px — right edge 2540px, uses full available space */
+    width: 1110px;           /* extended from 441px — right edge 2540px, uses full available space */
     padding-right: 5%;
     box-sizing: border-box;
     height: 802px;
-    left: 1516px;
+    left: 1450px;
     top: 275px;
 
     font-family: 'Arial';
