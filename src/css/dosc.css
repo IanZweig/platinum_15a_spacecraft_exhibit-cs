@@ -26,6 +26,7 @@
     position: absolute;
     width: 588px;
     padding-right: 5%;
+    padding-left: 5%;
     box-sizing: border-box;
     height: 550px;          /* extended from 292px — bottom at 1205px, 65px before buttons at 1270 */
     left: 1933px;
@@ -39,6 +40,7 @@
 
     display: flex;
     align-items: center;
+    justify-content: center;
     letter-spacing: 0.005em;
 
     color: #000000;
