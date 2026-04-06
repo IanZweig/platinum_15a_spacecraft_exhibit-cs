@@ -11,6 +11,7 @@ img {
     position: absolute;
     width: 1110px;           /* extended from 441px — right edge 2540px, uses full available space */
     padding-right: 5%;
+    padding-left: 5%;
     box-sizing: border-box;
     height: 802px;
     left: 1450px;
@@ -24,6 +25,7 @@ img {
 
     display: flex;
     align-items: center;
+    justify-content:center;
     letter-spacing: 0.005em;
 
     color: #000000;
