@@ -26,6 +26,8 @@ p {
     top: 218px;
 
     /* P */
+    padding-left:1%;
+    padding-right:1%;
 
     font-family: var(--base-font-family);
     font-style: normal;
