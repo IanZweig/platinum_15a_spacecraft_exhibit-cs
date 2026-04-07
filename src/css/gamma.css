@@ -29,10 +29,13 @@
     left: 2145px;
     top: 218px;
 
+    padding-left:1%;
+    padding-right:1%;
+
     font-family: 'Arial';
     font-style: normal;
     font-weight: 500;
-    font-size: 1rem;
+    font-size: 0.8rem;
     line-height: 1.21875rem; /* rem-based so it scales with font — matches magnetometer gold standard */
 
     display: flex;
@@ -50,10 +53,13 @@
     left: 671px;
     top: 885px;    /* bottom: 885+360=1245; buttons at 1270 — 25px clearance */
 
+    padding-left:1%;
+    padding-right:1%;
+
     font-family: 'Arial';
     font-style: normal;
     font-weight: 500;
-    font-size: 1rem;
+    font-size: 0.8rem;
     line-height: 1.21875rem; /* rem-based — matches gold standard */
 
     display: flex;
