@@ -25,8 +25,8 @@
 .text1 {
     position: absolute;
     width: 588px;
-    padding-right: 5%;
-    padding-left: 5%;
+    padding-right: 2%;
+    padding-left: 2%;
     box-sizing: border-box;
     height: 550px;          /* extended from 292px — bottom at 1205px, 65px before buttons at 1270 */
     left: 1933px;
