@@ -9,7 +9,8 @@
 .text1 {
     position: absolute;
     width: 819px;           /* extended from 379px — right edge 2540px, uses full available space */
-    padding-right: 5%;
+    padding-right: 2%;
+    padding-left: 2%;
     box-sizing: border-box;
     height: 620px;
     left: 1421px;
